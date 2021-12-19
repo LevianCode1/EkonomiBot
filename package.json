@@ -1,0 +1,21 @@
+{
+  "name": "EconomyBot",
+  "version": "1.0.0",
+  "description": "Quick Eco Ile Olusturulan Ekonomi Botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Levian",
+  "license": "LevianCode",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "quick.eco": "^2.0.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://discord.gg/WkYxnD3Zyg"
+  }
+}
